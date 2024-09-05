@@ -10,11 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@kern-ux/components": "^1.2.8",
-    "@kern-ux/react": "^1.2.8",
+    "@kern-ux/components": "^1.2.12",
+    "@kern-ux/react": "^1.2.12",
     "@public-ui/components": "^2.1.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
